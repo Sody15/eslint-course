@@ -11,6 +11,7 @@ function convertSpeed(speed, targetUnit) {
   }
 
   return  speed * 1.609344;
+  // test comment
 }
 
 function getChanceOfCollision() {

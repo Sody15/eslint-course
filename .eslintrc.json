@@ -8,7 +8,7 @@
         "ecmaVersion": 12
     },
     "rules": {
-        "no-console": "warn",
+        "no-console": "error",
         "indent": [
             "error",
             2
